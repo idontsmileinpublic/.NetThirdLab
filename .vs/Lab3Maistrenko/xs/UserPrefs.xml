@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{34804280-C422-4607-A5BE-931501C8A34C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Presenters/GradesInfoPresenters.cs">
+    <Files>
+      <File FileName="Models/Presenters/PrioritiesPresenters.cs" Line="1" Column="1" />
+      <File FileName="Models/Enrollee/PrintInfo.cs" Line="2" Column="25" />
+      <File FileName="Lab3Maistrenko/Program.cs" Line="8" Column="72" />
+      <File FileName="Models/Enrollee/Data.cs" Line="1" Column="1" />
+      <File FileName="Models/Presenters/GradesInfoPresenters.cs" Line="17" Column="1" />
+      <File FileName="Models/Presenters/PersonalInfoPresenters.cs" Line="1" Column="1" />
+      <File FileName="Models/Interfaces/IEnrollee.cs" Line="1" Column="1" />
+      <File FileName="Models/Interfaces/IEnrolleeData.cs" Line="1" Column="1" />
+      <File FileName="Models/Interfaces/IPresenters.cs" Line="1" Column="1" />
+      <File FileName="Models/EnrolleeData/GradesInfo.cs" Line="11" Column="39" />
+      <File FileName="Models/Enrollee/Enrollee.cs" Line="1" Column="1" />
+      <File FileName="Models/EnrolleeData/PersonalInfo.cs" Line="1" Column="1" />
+      <File FileName="Models/EnrolleeData/Priorities.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3Maistrenko" expanded="True">
+            <Node name="Lab3Maistrenko" expanded="True" />
+            <Node name="Models" expanded="True">
+              <Node name="Enrollee" expanded="True" />
+              <Node name="EnrolleeData" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Presenters" expanded="True">
+                <Node name="GradesInfoPresenters.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab3Maistrenko PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
